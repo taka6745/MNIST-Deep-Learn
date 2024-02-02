@@ -1,0 +1,8 @@
+{
+    "title": "Deep Learning MNIST",
+    "description": "This project applies deep learning techniques to recognize handwritten digits using the MNIST dataset. It focuses on utilizing advanced Convolutional Neural Networks (CNNs) and TensorFlow to achieve high accuracy in digit classification.",
+    "type": "Machine Learning",
+    "photo": "https://machinelearningmastery.com/wp-content/uploads/2019/02/Plot-of-a-Subset-of-Images-from-the-MNIST-Dataset-1024x768.png",
+    "tags": "Python, Tensorflow, Deep Learning",
+    "related_projects": ""
+}

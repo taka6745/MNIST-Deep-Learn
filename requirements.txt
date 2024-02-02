@@ -1,0 +1,2 @@
+tensorflow==2.6.0  # or any compatible version you're using
+matplotlib==3.4.3  # for evaluation and visualization
